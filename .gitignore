@@ -32,6 +32,8 @@ yarn-error.*
 
 # IDE
 /.idea/
+/.claude/
+/.vscode/
 
 # local env files
 .env*.local
