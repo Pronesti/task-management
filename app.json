@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7ede329d-84ce-45a7-8a50-346139e8168e"
+      }
+    },
+    "owner": "pronestis-team"
   }
 }
